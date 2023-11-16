@@ -1,0 +1,23 @@
+{
+  "name": "tictoc",
+  "version": "1.0.0",
+  "description": "a version of tiktok clone",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-mbugua/tictoc.git"
+  },
+  "author": "mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike-mbugua/tictoc/issues"
+  },
+  "homepage": "https://github.com/mike-mbugua/tictoc#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  }
+}
